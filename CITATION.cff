@@ -5,8 +5,8 @@ type: software
 version: 0.1.1
 date-released: 2026-08-21
 license: MIT
-repository-code: "https://github.com/ChenxuanyinZou/MHABR.jl"
-url: "https://github.com/ChenxuanyinZou/MHABR.jl"
+repository-code: "https://github.com/YankaiGroup/MHABR.jl"
+url: "https://github.com/YankaiGroup/MHABR.jl"
 
 authors:
   - family-names: "Zou"
