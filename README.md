@@ -1,6 +1,6 @@
 # MHABR.jl
 
-[![CI](https://github.com/ChenxuanyinZou/MHABR.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/ChenxuanyinZou/MHABR.jl/actions/workflows/CI.yml)
+[![CI](https://github.com/YankaiGroup/MHABR.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/YankaiGroup/MHABR.jl/actions/workflows/CI.yml)
 
 MHABR.jl implements the **Moving-Horizon Approximate Branch-and-Reduce
 (MHABR)** method for learning near-optimal classification trees. It returns an
