@@ -13,7 +13,7 @@ MHABR.jl requires Julia 1.11. Install the current GitHub version with:
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/ChenxuanyinZou/MHABR.jl")
+Pkg.add(url="https://github.com/YankaiGroup/MHABR.jl")
 ```
 
 ## Quick Start
